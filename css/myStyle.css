@@ -345,7 +345,7 @@ input::placeholder, textarea::placeholder {
         padding: 1,5%;
     }
     form {
-        padding: 50px 30px;
+        padding-left: 1% ;
         width: 100%;
     }
     input {
